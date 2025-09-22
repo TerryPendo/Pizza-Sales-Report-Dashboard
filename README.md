@@ -25,7 +25,7 @@ The dashboard provides comprehensive insights into the sales performance of the 
 ---
 
 ## Screnshot
-![Pizza Sales Dashboard](pizza sales report.png)
+![Pizza Sales Dashboard]("pizza sales report.png")
 
 ---
 
