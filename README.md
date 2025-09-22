@@ -9,10 +9,10 @@ The dashboard provides comprehensive insights into the sales performance of the 
 ---
 
 ## Dataset
-**Source:** Kaggle - Pizza Sales Dataset
-**Time period:** January-December 2015
-**Records:** Order date, Pizza Category, Pizza size, Quantity and Total Prize
-**Preperataion:** Dataset was ready for analysis and loaded directly into PowerBI.
+- **Source:** Kaggle - Pizza Sales Dataset
+- **Time period:** January-December 2015
+- **Records:** Order date, Pizza Category, Pizza size, Quantity and Total Prize
+- **Preperataion:** Dataset was ready for analysis and loaded directly into PowerBI.
 
 ---
 ## Dashboard Features
